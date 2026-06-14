@@ -169,7 +169,15 @@
           "home": "Alemania",
           "away": "Curazao",
           "hg": 7,
-          "ag": 1
+          "ag": 1,
+          "status": "finalizado"
+        },
+        {
+          "home": "Ecuador",
+          "away": "Costa de Marfil",
+          "hg": 0,
+          "ag": 0,
+          "status": "en_juego"
         }
       ]
     },
