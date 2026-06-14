@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "updated": "2026-06-14",
+    "source": "snapshot",
+    "nota": "fifa_rank es APROXIMADO (solo se usa como ultimo criterio de desempate). Actualiza resultados agregando partidos jugados con sus marcadores (hg = goles local, ag = goles visitante). Campos opcionales fp_home / fp_away = puntos de Fair Play (negativos)."
+  },
+  "groups": {
+    "A": {
+      "teams": [
+        {"name": "Mexico", "fifa_rank": 15},
+        {"name": "Corea del Sur", "fifa_rank": 23},
+        {"name": "Sudafrica", "fifa_rank": 61},
+        {"name": "Chequia", "fifa_rank": 43}
+      ],
+      "matches": [
+        {"home": "Mexico", "away": "Sudafrica", "hg": 2, "ag": 0},
+        {"home": "Corea del Sur", "away": "Chequia", "hg": 2, "ag": 1}
+      ]
+    },
+    "B": {
+      "teams": [
+        {"name": "Suiza", "fifa_rank": 19},
+        {"name": "Canada", "fifa_rank": 31},
+        {"name": "Catar", "fifa_rank": 36},
+        {"name": "Bosnia y Herzegovina", "fifa_rank": 75}
+      ],
+      "matches": []
+    },
+    "C": {
+      "teams": [
+        {"name": "Brasil", "fifa_rank": 5},
+        {"name": "Marruecos", "fifa_rank": 12},
+        {"name": "Escocia", "fifa_rank": 39},
+        {"name": "Haiti", "fifa_rank": 83}
+      ],
+      "matches": [
+        {"home": "Brasil", "away": "Marruecos", "hg": 1, "ag": 1},
+        {"home": "Escocia", "away": "Haiti", "hg": 1, "ag": 0}
+      ]
+    },
+    "D": {
+      "teams": [
+        {"name": "Estados Unidos", "fifa_rank": 16},
+        {"name": "Turquia", "fifa_rank": 27},
+        {"name": "Australia", "fifa_rank": 24},
+        {"name": "Paraguay", "fifa_rank": 38}
+      ],
+      "matches": [
+        {"home": "Estados Unidos", "away": "Paraguay", "hg": 4, "ag": 1}
+      ]
+    },
+    "E": {
+      "teams": [
+        {"name": "Alemania", "fifa_rank": 9},
+        {"name": "Ecuador", "fifa_rank": 25},
+        {"name": "Costa de Marfil", "fifa_rank": 41},
+        {"name": "Curazao", "fifa_rank": 90}
+      ],
+      "matches": [
+        {"home": "Alemania", "away": "Curazao", "hg": 7, "ag": 1}
+      ]
+    },
+    "F": {
+      "teams": [
+        {"name": "Paises Bajos", "fifa_rank": 7},
+        {"name": "Japon", "fifa_rank": 17},
+        {"name": "Suecia", "fifa_rank": 35},
+        {"name": "Tunez", "fifa_rank": 42}
+      ],
+      "matches": []
+    },
+    "G": {
+      "teams": [
+        {"name": "Belgica", "fifa_rank": 8},
+        {"name": "Iran", "fifa_rank": 20},
+        {"name": "Egipto", "fifa_rank": 33},
+        {"name": "Nueva Zelanda", "fifa_rank": 86}
+      ],
+      "matches": []
+    },
+    "H": {
+      "teams": [
+        {"name": "Espana", "fifa_rank": 2},
+        {"name": "Uruguay", "fifa_rank": 11},
+        {"name": "Arabia Saudi", "fifa_rank": 58},
+        {"name": "Cabo Verde", "fifa_rank": 70}
+      ],
+      "matches": []
+    },
+    "I": {
+      "teams": [
+        {"name": "Francia", "fifa_rank": 3},
+        {"name": "Senegal", "fifa_rank": 18},
+        {"name": "Noruega", "fifa_rank": 30},
+        {"name": "Irak", "fifa_rank": 58}
+      ],
+      "matches": []
+    },
+    "J": {
+      "teams": [
+        {"name": "Argentina", "fifa_rank": 1},
+        {"name": "Austria", "fifa_rank": 22},
+        {"name": "Argelia", "fifa_rank": 37},
+        {"name": "Jordania", "fifa_rank": 64}
+      ],
+      "matches": []
+    },
+    "K": {
+      "teams": [
+        {"name": "Portugal", "fifa_rank": 6},
+        {"name": "Colombia", "fifa_rank": 13},
+        {"name": "Uzbekistan", "fifa_rank": 57},
+        {"name": "RD Congo", "fifa_rank": 60}
+      ],
+      "matches": []
+    },
+    "L": {
+      "teams": [
+        {"name": "Inglaterra", "fifa_rank": 4},
+        {"name": "Croacia", "fifa_rank": 10},
+        {"name": "Ghana", "fifa_rank": 72},
+        {"name": "Panama", "fifa_rank": 32}
+      ],
+      "matches": []
+    }
+  }
+}

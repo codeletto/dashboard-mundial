@@ -1,0 +1,14 @@
+# entorno virtual
+venv/
+.venv/
+
+# cache de Python
+__pycache__/
+*.pyc
+
+# Streamlit (secretos locales, si llegas a usarlos)
+.streamlit/secrets.toml
+
+# sistema
+.DS_Store
+Thumbs.db
