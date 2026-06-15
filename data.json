@@ -236,7 +236,15 @@
           "fifa_rank": 86
         }
       ],
-      "matches": []
+      "matches": [
+        {
+          "home": "Belgica",
+          "away": "Egipto",
+          "hg": 1,
+          "ag": 1,
+          "status": "finalizado"
+        }
+      ]
     },
     "H": {
       "teams": [
