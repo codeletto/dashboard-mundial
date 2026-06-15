@@ -176,8 +176,8 @@
           "home": "Ecuador",
           "away": "Costa de Marfil",
           "hg": 0,
-          "ag": 0,
-          "status": "en_juego"
+          "ag": 1,
+          "status": "finalizado"
         }
       ]
     },
