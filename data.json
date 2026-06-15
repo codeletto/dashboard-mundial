@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-06-14",
+    "updated": "2026-06-15",
     "source": "snapshot",
     "nota": "fifa_rank es APROXIMADO (solo se usa como ultimo criterio de desempate). Actualiza resultados agregando partidos jugados con sus marcadores (hg = goles local, ag = goles visitante). Campos opcionales fp_home / fp_away = puntos de Fair Play (negativos)."
   },
@@ -207,6 +207,13 @@
           "hg": 2,
           "ag": 2,
           "status": "finalizado"
+        },
+        {
+          "home": "Suecia",
+          "away": "Tunez",
+          "hg": 5,
+          "ag": 1,
+          "status": "finalizado"
         }
       ]
     },
@@ -250,7 +257,15 @@
           "fifa_rank": 70
         }
       ],
-      "matches": []
+      "matches": [
+        {
+          "home": "Espana",
+          "away": "Cabo Verde",
+          "hg": 0,
+          "ag": 0,
+          "status": "en_juego"
+        }
+      ]
     },
     "I": {
       "teams": [
