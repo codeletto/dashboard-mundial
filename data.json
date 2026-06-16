@@ -272,6 +272,13 @@
           "hg": 0,
           "ag": 0,
           "status": "finalizado"
+        },
+        {
+          "home": "Uruguay",
+          "away": "Arabia Saudi",
+          "hg": 1,
+          "ag": 1,
+          "status": "finalizado"
         }
       ]
     },
